@@ -1,0 +1,9 @@
+ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+li {
+    list-style-type: none;
+    border: 1px solid black;
+}
